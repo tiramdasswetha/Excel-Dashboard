@@ -37,4 +37,6 @@ BikeSalesDashboard.xlsx — Final dashboard
 
 ![Dashboard Screenshot](Dashboard.jpg)
 
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231//)
+
 
