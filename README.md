@@ -33,4 +33,7 @@ Here are your points in bullet form:
 📁 Files Included
 
 BikeSalesDashboard.xlsx — Final dashboard
+### Dashboard Preview
+
+![Dashboard Screenshot](Dashboard.png)
 
