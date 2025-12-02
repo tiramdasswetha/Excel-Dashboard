@@ -67,5 +67,4 @@ To provide business users with a data-driven dashboard that highlights:
 
 ## 📫 **Connect With Me**
 
-If you'd like to explore more projects or collaborate:
 👉 **LinkedIn:** [tiramdas-swetha2231](https://www.linkedin.com/in/tiramdas-swetha2231/)
