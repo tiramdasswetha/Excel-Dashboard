@@ -35,5 +35,6 @@ Here are your points in bullet form:
 BikeSalesDashboard.xlsx — Final dashboard
 ### Dashboard Preview
 
-![Dashboard Screenshot](Excel-Dashboard/Dashboard.png)
+![Dashboard Screenshot](Downloads/Dashboard.png)
+
 
