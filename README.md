@@ -23,14 +23,12 @@ Data Cleaning techniques
 
 📊 Insights Gained
 
-Adult customers make the highest purchases
+Here are your points in bullet form:
 
-The West region shows better performance than others
-
-Male customers have slightly more bike purchases
-
-Income level influences purchase decisions
-
+* Adult customers make the highest purchases
+* The West region shows better performance than others
+* Male customers have slightly more bike purchases
+* Income level influences purchase decisions
 
 📁 Files Included
 
