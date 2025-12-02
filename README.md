@@ -1,41 +1,71 @@
-BikeSalesDashboard.xlsx
+# 🚴 **Bike Sales Excel Dashboard**
 
-[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231//)
+[![LinkedIn Button](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/tiramdas-swetha2231/)
 
-🚴 Bike Sales Excel Dashboard
+---
 
-📌 Project Overview
+## 📌 **Project Overview**
 
-This Excel dashboard visualizes bike sales data to analyze customer preferences and business performance.
+This project showcases an interactive Excel dashboard built to visualize **bike sales performance** across regions, customer demographics, and income groups. It helps users quickly identify sales patterns and customer behavior.
 
-🎯 Objective
+---
 
-To help business users quickly identify sales trends by region, customer type, gender, and age group.
+## 🎯 **Objective**
 
-🛠 Tools Used
+To provide business users with a data-driven dashboard that highlights:
 
-Microsoft Excel
+* Customer demographics
+* Regional sales distribution
+* Purchase trends
+* Income-level influence on buying behavior
 
-Pivot Tables
+---
 
-Slicers
+## 🛠 **Tools Used**
 
-Charts
+* **Microsoft Excel**
+* **Pivot Tables**
+* **Pivot Charts**
+* **Slicers**
+* **Data Cleaning Techniques**
+* **Conditional Formatting**
 
-Data Cleaning techniques
+---
 
-📊 Insights Gained
+## 📊 **Insights Gained**
 
-Here are your points in bullet form:
+* **Adult customers** make the highest number of purchases
+* The **West region** shows better performance compared to others
+* **Male customers** have slightly more bike purchases
+* **Income level** significantly influences purchase decisions
 
-* Adult customers make the highest purchases
-* The West region shows better performance than others
-* Male customers have slightly more bike purchases
-* Income level influences purchase decisions
+---
 
-📁 Files Included
+## 📁 **Files Included**
 
-BikeSalesDashboard.xlsx — Final dashboard
-### Dashboard Preview
+* **BikeSalesDashboard.xlsx** — Final interactive dashboard
+* **Dashboard.jpg** — Dashboard preview image
+* **Dataset** — Raw data used for cleaning and analysis
+
+---
+
+## 🖥️ **Dashboard Preview**
+
 ![Dashboard Screenshot](Dashboard.jpg)
 
+---
+
+## 💡 **Key Features**
+
+* ✔ Interactive slicers for gender, region, income & customer type
+* ✔ Clear visual breakdown of customer demographic insights
+* ✔ Region-wise performance comparison
+* ✔ Data cleaned and structured for dashboard-ready format
+* ✔ Easy-to-understand charts for business presentations
+
+---
+
+## 📫 **Connect With Me**
+
+If you'd like to explore more projects or collaborate:
+👉 **LinkedIn:** [tiramdas-swetha2231](https://www.linkedin.com/in/tiramdas-swetha2231/)
