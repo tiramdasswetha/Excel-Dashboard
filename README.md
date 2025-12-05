@@ -49,7 +49,7 @@ To provide business users with a data-driven dashboard that highlights:
 ------
 ## 🖥 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Bike Sales Dashboard](Dashboard.jpg)
 --------
 ## 💡 **Key Features**
 
