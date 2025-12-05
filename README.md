@@ -59,8 +59,3 @@ To provide business users with a data-driven dashboard that highlights:
 * ✔ Data cleaned and structured for dashboard-ready format
 * ✔ Easy-to-understand charts for business presentations
 
----
-
-## 📫 **Connect With Me**
-
-👉 **LinkedIn:** [tiramdas-swetha2231](https://www.linkedin.com/in/tiramdas-swetha2231/)
