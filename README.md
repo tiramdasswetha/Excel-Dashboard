@@ -49,7 +49,7 @@ To provide business users with a data-driven dashboard that highlights:
 ------
 ## 🖥 Dashboard Preview
 
-![Data Professional Survey Dashboard](Power BI Dashboard.png)
+![Dashboard Preview](Dashboard.png)
 --------
 ## 💡 **Key Features**
 
