@@ -46,15 +46,11 @@ To provide business users with a data-driven dashboard that highlights:
 * **BikeSalesDashboard.xlsx** — Final interactive dashboard
 * **Dashboard.jpg** — Dashboard preview image
 * **Dataset** — Raw data used for cleaning and analysis
+------
+## 🖥 Dashboard Preview
 
----
-
-## 🖥️ **Dashboard Preview**
-
-![Dashboard Screenshot](Dashboard.jpg)
-
----
-
+![Data Professional Survey Dashboard](Power BI Dashboard.png)
+--------
 ## 💡 **Key Features**
 
 * ✔ Interactive slicers for gender, region, income & customer type
